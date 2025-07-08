@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### 🔑 Key Skills
+- Programming: `Python`, `R`, `SQL`, `JavaScript`, …  
+- Data: Data analysis, dashboarding, statistical modeling, machine learning  
+- Tools: Git, Docker, Jupyter, PowerBI, Tableau
+
 <!--
 **NikolaZizic/NikolaZizic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
