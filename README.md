@@ -4,7 +4,7 @@
 
 🎯 **Data Engineer | Data Architect | Cloud Enthusiast**
 
-Welcome to my GitHub! I specialize in designing and building scalable data systems, data pipelines, and cloud-based architectures. Whether it's real-time data streaming, ETL optimization, or crafting modern data platforms — I'm passionate about turning raw data into actionable insights.
+Welcome to my GitHub! Here, you can find a few of my passion projects that I work on in my spare time. I like to center my projects around Data Engineering and Data Architecture, although I occasionally add a few sprinkles of frontend frameworks.
 
 ---
 
