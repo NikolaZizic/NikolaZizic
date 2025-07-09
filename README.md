@@ -44,45 +44,22 @@ Welcome to my GitHub! I specialize in designing and building scalable data syste
 
 ## 🧠 What I’ve Been Working On
 
-- 🔧 Building scalable, event-driven data platforms using **Apache Kafka** and **Spark Structured Streaming**
+- 🔧 Building scalable, event-driven data platforms using **Spark Structured Streaming**
 - ☁️ Designing cloud-native data lakes and warehouses on **Azure**
 - 📊 Architecting ELT/ETL pipelines using **Airflow**, **Python**, and **SQL-based modeling**
 - 📁 Optimizing big data workflows with **Parquet**, **Delta Lake**, and **Databricks**
-
+- 💻 Refining my front-end skills with **ReactJS** and **Tailwind CSS**
 ---
 
 ## 📂 Featured Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🔗 Data Warehouse ETL project](https://github.com/YOUR_USERNAME/data-lakehouse-starter) | A small template project for setting up a Data Waregouse and an ETL pipeline. | SQL Server and SSMS |
+| [🔗 Data Warehouse ETL project](https://github.com/NikolaZizic/DataWarehouse_ETL_Project) | A small template project for setting up a Data Waregouse and an ETL pipeline. | SQL Server and SSMS |
 | [🔗 Riot Games API page](https://github.com/YOUR_USERNAME/kafka-streaming-pipeline) | Full-stack app for real-time data ingestion pipeline with SQL Server, Spark Streaming and FastAPI. | Python, Spark, Airflow and SQL Server |
 | [🔗 Front-End with LeafletJS](https://github.com/YOUR_USERNAME/dbt-warehouse-modeling) | Front-end Project using React and LeafletJS for monuments in Paris. | JavaScript, Python, SQL |
 
 ---
 
-## 💬 Let's Connect
-
-I'm always open to collaborations, ideas, and knowledge sharing. Feel free to connect with me!
-<!--
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)]()
--->
----
 
 
-
-
-<!--
-**NikolaZizic/NikolaZizic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
