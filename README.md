@@ -55,9 +55,9 @@ Welcome to my GitHub! Here, you can find a few of my passion projects that I wor
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🔗 Data Warehouse ETL project](https://github.com/NikolaZizic/DataWarehouse_ETL_Project) | A small template project for setting up a Data Waregouse and an ETL pipeline. | SQL Server and SSMS |
-| [🔗 Riot Games API page](https://github.com/YOUR_USERNAME/kafka-streaming-pipeline) | Full-stack app for real-time data ingestion pipeline with SQL Server, Spark Streaming and FastAPI. | Python, Spark, Airflow and SQL Server |
-| [🔗 Front-End with LeafletJS](https://github.com/YOUR_USERNAME/dbt-warehouse-modeling) | Front-end Project using React and LeafletJS for monuments in Paris. | JavaScript, Python, SQL |
+| [🔗 Data Warehouse ETL project](https://github.com/NikolaZizic/datawarehouse_etl_project) | A small template project for setting up a Data Waregouse and an ETL pipeline. | SQL Server and SSMS |
+| [🔗 Riot Games API page](https://github.com/NikolaZizic/fullstack-riotgames-dashboard) | Full-stack app for real-time data ingestion pipeline with SQL Server, Spark Streaming and FastAPI. | Python, Spark, Airflow and SQL Server |
+| [🔗 Front-End with LeafletJS](https://github.com/NikolaZizic/react-leaflet-project) | Front-end Project using React and LeafletJS for monuments in Paris. | JavaScript, Python, SQL |
 
 ---
 
